@@ -1,0 +1,47 @@
+[
+    {
+        "name":"nombre de articulo",
+        "price":50,
+        "descripcion":"Esta es una descripcion",
+        "imgs":[
+            "https://cdn.vuetifyjs.com/images/cards/docks.jpg",
+            "https://cdn.vuetifyjs.com/images/cards/docks.jpg"
+        ]
+    },
+     {
+        "name":"nombre de articulo",
+        "price":30,
+        "descripcion":"Esta es una descripcion",
+        "imgs":[
+            "https://cdn.vuetifyjs.com/images/cards/docks.jpg",
+            "https://cdn.vuetifyjs.com/images/cards/docks.jpg"
+        ]
+    },
+     {
+        "name":"nombre de articulo",
+        "price":80,
+        "descripcion":"Esta es una descripcion",
+        "imgs":[
+            "https://cdn.vuetifyjs.com/images/cards/docks.jpg",
+            "https://cdn.vuetifyjs.com/images/cards/docks.jpg"
+        ]
+    },
+     {
+        "name":"nombre de articulo",
+        "price":20,
+        "descripcion":"Esta es una descripcion",
+        "imgs":[
+            "https://cdn.vuetifyjs.com/images/cards/docks.jpg",
+            "https://cdn.vuetifyjs.com/images/cards/docks.jpg"
+        ]
+    },
+     {
+        "name":"nombre de articulo",
+        "price":15,
+        "descripcion":"Esta es una descripcion",
+        "imgs":[
+            "https://cdn.vuetifyjs.com/images/cards/docks.jpg",
+            "https://cdn.vuetifyjs.com/images/cards/docks.jpg"
+        ]
+    }
+]
