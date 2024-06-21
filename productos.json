@@ -1,6 +1,6 @@
 [
   {
-    "name": "nombre de articulo",
+    "Producto": "nombre de articulo",
     "price": 50.0,
     "descripcion1": "Esta es una descripcion",
     "imgs": [
@@ -9,7 +9,7 @@
     ]
   },
   {
-    "name": "nombre de articulo",
+    "Producto": "nombre de articulo",
     "price": 3000.0,
     "descripcion1": "Esta es una descripcion",
     "imgs": [
@@ -18,7 +18,7 @@
     ]
   },
   {
-    "name": "nombre de articulo",
+    "Producto": "nombre de articulo",
     "price": 8000.0,
     "descripcion1": "Esta es una descripcion",
     "imgs": [
@@ -27,7 +27,7 @@
     ]
   },
   {
-    "name": "nombre de articulo",
+    "Producto": "nombre de articulo",
     "price": 2000.0,
     "descripcion1": "Esta es una descripcion",
     "imgs": [
@@ -36,7 +36,7 @@
     ]
   },
   {
-    "name": "nombre de articulo",
+    "Producto": "nombre de articulo",
     "price": 1500.0,
     "descripcion1": "Esta es una descripcion",
     "imgs": [
