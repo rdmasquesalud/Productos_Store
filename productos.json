@@ -2,7 +2,7 @@
   {
     "name": "nombre de articulo",
     "price": 50.0,
-    "descripcion": "Esta es una descripcion",
+    "descripcion1": "Esta es una descripcion",
     "imgs": [
       "https://cdn.vuetifyjs.com/images/cards/docks.jpg",
       "https://cdn.vuetifyjs.com/images/cards/docks.jpg"
@@ -11,7 +11,7 @@
   {
     "name": "nombre de articulo",
     "price": 3000.0,
-    "descripcion": "Esta es una descripcion",
+    "descripcion1": "Esta es una descripcion",
     "imgs": [
       "https://cdn.vuetifyjs.com/images/cards/docks.jpg",
       "https://cdn.vuetifyjs.com/images/cards/docks.jpg"
@@ -20,7 +20,7 @@
   {
     "name": "nombre de articulo",
     "price": 8000.0,
-    "descripcion": "Esta es una descripcion",
+    "descripcion1": "Esta es una descripcion",
     "imgs": [
       "https://cdn.vuetifyjs.com/images/cards/docks.jpg",
       "https://cdn.vuetifyjs.com/images/cards/docks.jpg"
@@ -29,7 +29,7 @@
   {
     "name": "nombre de articulo",
     "price": 2000.0,
-    "descripcion": "Esta es una descripcion",
+    "descripcion1": "Esta es una descripcion",
     "imgs": [
       "https://cdn.vuetifyjs.com/images/cards/docks.jpg",
       "https://cdn.vuetifyjs.com/images/cards/docks.jpg"
@@ -38,7 +38,7 @@
   {
     "name": "nombre de articulo",
     "price": 1500.0,
-    "descripcion": "Esta es una descripcion",
+    "descripcion1": "Esta es una descripcion",
     "imgs": [
       "https://cdn.vuetifyjs.com/images/cards/docks.jpg",
       "https://cdn.vuetifyjs.com/images/cards/docks.jpg"
