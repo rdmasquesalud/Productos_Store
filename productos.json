@@ -1,37 +1,92 @@
 [
-  {
-    "name": "nombre de articulo",
-    "price": 1000.0,
-    "descripcion": "Esta es una descripcion",
-    "Imagen1": "https://cdn.vuetifyjs.com/images/cards/docks.jpg",
-    "Imagen2": "https://cdn.vuetifyjs.com/images/cards/docks.jpg"
-  },
-  {
-    "name": "nombre de articulo",
-    "price": 2000.0,
-    "descripcion": "Esta es una descripcion",
-    "Imagen1": "https://cdn.vuetifyjs.com/images/cards/docks.jpg",
-    "Imagen2": "https://cdn.vuetifyjs.com/images/cards/docks.jpg"
-  },
-  {
-    "name": "nombre de articulo",
-    "price": 3.0,
-    "descripcion": "Esta es una descripcion",
-    "Imagen1": "https://cdn.vuetifyjs.com/images/cards/docks.jpg",
-    "Imagen2": "https://cdn.vuetifyjs.com/images/cards/docks.jpg"
-  },
-  {
-    "Producto": "nombre de articulo",
-    "price": 4.0,
-    "descripcion1": "Esta es una descripcion",
-    "Imagen1": "https://cdn.vuetifyjs.com/images/cards/docks.jpg",
-    "Imagen2": "https://cdn.vuetifyjs.com/images/cards/docks.jpg"
-  },
-  {
-    "name"nombre de articulo",
-    "price": 5.0,
-    "descripcion": "Esta es una descripcion",
-    "Imagen1": "https://cdn.vuetifyjs.com/images/cards/docks.jpg",
-    "Imagen2": "https://cdn.vuetifyjs.com/images/cards/docks.jpg"
-  }
+    {
+        "name": "Paracetamol 500mg",
+        "price": 10,
+        "descripcion": "Analgésico y antipirético utilizado para aliviar el dolor y reducir la fiebre.",
+        "imgs": [
+            "https://cdn.vuetifyjs.com/images/cards/docks.jpg",
+            "https://cdn.vuetifyjs.com/images/cards/docks.jpg"
+        ]
+    },
+    {
+        "name": "Ibuprofeno 400mg",
+        "price": 12,
+        "descripcion": "Antiinflamatorio no esteroideo utilizado para reducir la inflamación y el dolor.",
+        "imgs": [
+            "https://cdn.vuetifyjs.com/images/cards/docks.jpg",
+            "https://cdn.vuetifyjs.com/images/cards/docks.jpg"
+        ]
+    },
+    {
+        "name": "Amoxicilina 500mg",
+        "price": 15,
+        "descripcion": "Antibiótico de amplio espectro utilizado para tratar infecciones bacterianas.",
+        "imgs": [
+            "https://cdn.vuetifyjs.com/images/cards/docks.jpg",
+            "https://cdn.vuetifyjs.com/images/cards/docks.jpg"
+        ]
+    },
+    {
+        "name": "Aspirina 100mg",
+        "price": 8,
+        "descripcion": "Analgésico, antiinflamatorio y antipirético utilizado para aliviar el dolor y reducir la fiebre.",
+        "imgs": [
+            "https://cdn.vuetifyjs.com/images/cards/docks.jpg",
+            "https://cdn.vuetifyjs.com/images/cards/docks.jpg"
+        ]
+    },
+    {
+        "name": "Loratadina 10mg",
+        "price": 7,
+        "descripcion": "Antihistamínico utilizado para aliviar los síntomas de la alergia como el estornudo, el picor y el lagrimeo.",
+        "imgs": [
+            "https://cdn.vuetifyjs.com/images/cards/docks.jpg",
+            "https://cdn.vuetifyjs.com/images/cards/docks.jpg"
+        ]
+    },
+    {
+        "name": "Paracetamol 500mg",
+        "price": 10,
+        "descripcion": "Analgésico y antipirético utilizado para aliviar el dolor y reducir la fiebre.",
+        "imgs": [
+            "https://cdn.vuetifyjs.com/images/cards/docks.jpg",
+            "https://cdn.vuetifyjs.com/images/cards/docks.jpg"
+        ]
+    },
+    {
+        "name": "Ibuprofeno 400mg",
+        "price": 12,
+        "descripcion": "Antiinflamatorio no esteroideo utilizado para reducir la inflamación y el dolor.",
+        "imgs": [
+            "https://cdn.vuetifyjs.com/images/cards/docks.jpg",
+            "https://cdn.vuetifyjs.com/images/cards/docks.jpg"
+        ]
+    },
+    {
+        "name": "Amoxicilina 500mg",
+        "price": 15,
+        "descripcion": "Antibiótico de amplio espectro utilizado para tratar infecciones bacterianas.",
+        "imgs": [
+            "https://cdn.vuetifyjs.com/images/cards/docks.jpg",
+            "https://cdn.vuetifyjs.com/images/cards/docks.jpg"
+        ]
+    },
+    {
+        "name": "Aspirina 100mg",
+        "price": 8,
+        "descripcion": "Analgésico, antiinflamatorio y antipirético utilizado para aliviar el dolor y reducir la fiebre.",
+        "imgs": [
+            "https://cdn.vuetifyjs.com/images/cards/docks.jpg",
+            "https://cdn.vuetifyjs.com/images/cards/docks.jpg"
+        ]
+    },
+    {
+        "name": "Loratadina 10mg",
+        "price": 7,
+        "descripcion": "Antihistamínico utilizado para aliviar los síntomas de la alergia como el estornudo, el picor y el lagrimeo.",
+        "imgs": [
+            "https://cdn.vuetifyjs.com/images/cards/docks.jpg",
+            "https://cdn.vuetifyjs.com/images/cards/docks.jpg"
+        ]
+    }
 ]
