@@ -1,47 +1,42 @@
 [
   {
     "Producto": "nombre de articulo",
-    "price": 500.0,
+    "price": 1.0,
     "descripcion1": "Esta es una descripcion",
-    "imgs": [
-      "https://cdn.vuetifyjs.com/images/cards/docks.jpg",
-      "https://cdn.vuetifyjs.com/images/cards/docks.jpg"
-    ]
+    "imgs": [],
+    "Imagen1": "",
+    "Imagen2": ""
   },
   {
     "Producto": "nombre de articulo",
-    "price": 30.0,
+    "price": 2.0,
     "descripcion1": "Esta es una descripcion",
-    "imgs": [
-      "https://cdn.vuetifyjs.com/images/cards/docks.jpg",
-      "https://cdn.vuetifyjs.com/images/cards/docks.jpg"
-    ]
+    "imgs": [],
+    "Imagen1": "",
+    "Imagen2": ""
   },
   {
     "Producto": "nombre de articulo",
-    "price": 80.0,
+    "price": 3.0,
     "descripcion1": "Esta es una descripcion",
-    "imgs": [
-      "https://cdn.vuetifyjs.com/images/cards/docks.jpg",
-      "https://cdn.vuetifyjs.com/images/cards/docks.jpg"
-    ]
+    "imgs": [],
+    "Imagen1": "",
+    "Imagen2": ""
   },
   {
     "Producto": "nombre de articulo",
-    "price": 2000.0,
+    "price": 4.0,
     "descripcion1": "Esta es una descripcion",
-    "imgs": [
-      "https://cdn.vuetifyjs.com/images/cards/docks.jpg",
-      "https://cdn.vuetifyjs.com/images/cards/docks.jpg"
-    ]
+    "imgs": [],
+    "Imagen1": "",
+    "Imagen2": ""
   },
   {
     "Producto": "nombre de articulo",
-    "price": 1500.0,
+    "price": 5.0,
     "descripcion1": "Esta es una descripcion",
-    "imgs": [
-      "https://cdn.vuetifyjs.com/images/cards/docks.jpg",
-      "https://cdn.vuetifyjs.com/images/cards/docks.jpg"
-    ]
+    "imgs": [],
+    "Imagen1": "",
+    "Imagen2": ""
   }
 ]
