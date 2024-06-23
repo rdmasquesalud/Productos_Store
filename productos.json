@@ -10,7 +10,7 @@
   },
   {
     "Producto": "nombre de articulo",
-    "price": 3000.0,
+    "price": 30.0,
     "descripcion1": "Esta es una descripcion",
     "imgs": [
       "https://cdn.vuetifyjs.com/images/cards/docks.jpg",
@@ -19,7 +19,7 @@
   },
   {
     "Producto": "nombre de articulo",
-    "price": 8000.0,
+    "price": 80.0,
     "descripcion1": "Esta es una descripcion",
     "imgs": [
       "https://cdn.vuetifyjs.com/images/cards/docks.jpg",
