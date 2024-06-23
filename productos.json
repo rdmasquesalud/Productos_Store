@@ -1,7 +1,7 @@
 [
   {
     "Producto": "nombre de articulo",
-    "price": 50.0,
+    "price": 500.0,
     "descripcion1": "Esta es una descripcion",
     "imgs": [
       "https://cdn.vuetifyjs.com/images/cards/docks.jpg",
