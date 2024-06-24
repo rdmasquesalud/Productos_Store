@@ -1,7 +1,7 @@
 [
   {
     "name": "Paracetamol 500mg",
-    "price": 10.0,
+    "price": 1000.0,
     "descripcion": "Analgésico y antipirético utilizado para aliviar el dolor y reducir la fiebre.",
     "Imagen1": "https://cdn.vuetifyjs.com/images/cards/docks.jpg",
     "Imagen2": "https://cdn.vuetifyjs.com/images/cards/docks.jpg",
@@ -9,7 +9,7 @@
   },
   {
     "name": "Ibuprofeno 400mg",
-    "price": 12.0,
+    "price": 2000.0,
     "descripcion": "Antiinflamatorio no esteroideo utilizado para reducir la inflamación y el dolor.",
     "Imagen1": "https://cdn.vuetifyjs.com/images/cards/docks.jpg",
     "Imagen2": "https://cdn.vuetifyjs.com/images/cards/docks.jpg",
