@@ -9,7 +9,7 @@
   },
   {
     "name": "Ibuprofeno 400mg",
-    "price": 2000.0,
+    "price": 1.0,
     "descripcion": "Antiinflamatorio no esteroideo utilizado para reducir la inflamación y el dolor.",
     "Imagen1": "https://cdn.vuetifyjs.com/images/cards/docks.jpg",
     "Imagen2": "https://cdn.vuetifyjs.com/images/cards/docks.jpg",
