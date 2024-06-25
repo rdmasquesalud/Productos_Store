@@ -41,7 +41,7 @@
   },
   {
     "name": "Paracetamol 500mg",
-    "price": 10.0,
+    "price": 8.0,
     "descripcion": "Analgésico y antipirético utilizado para aliviar el dolor y reducir la fiebre.",
     "Imagen1": "https://cdn.vuetifyjs.com/images/cards/docks.jpg",
     "Imagen2": "https://cdn.vuetifyjs.com/images/cards/docks.jpg",
@@ -49,7 +49,7 @@
   },
   {
     "name": "Ibuprofeno 400mg",
-    "price": 12.0,
+    "price": 8.0,
     "descripcion": "Antiinflamatorio no esteroideo utilizado para reducir la inflamación y el dolor.",
     "Imagen1": "https://cdn.vuetifyjs.com/images/cards/docks.jpg",
     "Imagen2": "https://cdn.vuetifyjs.com/images/cards/docks.jpg",
@@ -57,7 +57,7 @@
   },
   {
     "name": "Amoxicilina 500mg",
-    "price": 15.0,
+    "price": 8.0,
     "descripcion": "Antibiótico de amplio espectro utilizado para tratar infecciones bacterianas.",
     "Imagen1": "https://cdn.vuetifyjs.com/images/cards/docks.jpg",
     "Imagen2": "https://cdn.vuetifyjs.com/images/cards/docks.jpg",
@@ -73,7 +73,7 @@
   },
   {
     "name": "Loratadina 10mg",
-    "price": 7.0,
+    "price": 8.0,
     "descripcion": "Antihistamínico utilizado para aliviar los síntomas de la alergia como el estornudo, el picor y el lagrimeo.",
     "Imagen1": "https://cdn.vuetifyjs.com/images/cards/docks.jpg",
     "Imagen2": "https://cdn.vuetifyjs.com/images/cards/docks.jpg",
