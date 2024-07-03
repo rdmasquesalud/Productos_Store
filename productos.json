@@ -1,87 +1,87 @@
 [
   {
     "name": "RiteStart® Women",
-    "price": "10",
+    "price": "88",
     "descripcion": "This all-in-one daily supplement pack contains the building blocks of good nutrition (plus some extras) for everything a man needs to start his day off “Rite.” RiteStart® features patented 4Life® Transfer Factor Plus® Tri-Factor® Formula for broad-based immune cell support; vitamins A, C, and E; Co-Q10;",
-    "Imagen1": "https://media2.4life.com/products/New-RiteStart-Men_1000px_20220117145736.jpg?width=1000&mode=crop&quality=80",
-    "Imagen2": "https://cdn.vuetifyjs.com/images/cards/docks.jpg",
-    "CATEGORIA": "ANOREXIA"
+    "Imagen1": "",
+    "Imagen2": "",
+    "CATEGORIA": "L�nea Targeted Transfer Factor�"
   },
   {
     "name": "RiteStart® Man",
-    "price": "12",
+    "price": "88",
     "descripcion": "Antiinflamatorio no esteroideo utilizado para reducir la inflamación y el dolor.",
     "Imagen1": "https://usspanish.4life.com/corp/product/ritestart-men-new/1227",
     "Imagen2": "https://cdn.vuetifyjs.com/images/cards/docks.jpg",
-    "CATEGORIA": null
+    "CATEGORIA": "L�nea Targeted Transfer Factor�"
   },
   {
-    "name": "Amoxicilina 500mg",
-    "price": 7,
+    "name": "Rite Start Kids",
+    "price": "64",
     "descripcion": "Antibiótico de amplio espectro utilizado para tratar infecciones bacterianas.",
     "Imagen1": "https://cdn.vuetifyjs.com/images/cards/docks.jpg",
     "Imagen2": "https://cdn.vuetifyjs.com/images/cards/docks.jpg",
-    "CATEGORIA": null
+    "CATEGORIA": "L�nea Targeted Transfer Factor�"
   },
   {
-    "name": "Aspirina 100mg",
-    "price": 7,
+    "name": "Stress Formula",
+    "price": "34",
     "descripcion": "Analgésico, antiinflamatorio y antipirético utilizado para aliviar el dolor y reducir la fiebre.",
     "Imagen1": "https://cdn.vuetifyjs.com/images/cards/docks.jpg",
     "Imagen2": "https://cdn.vuetifyjs.com/images/cards/docks.jpg",
     "CATEGORIA": null
   },
   {
-    "name": "Loratadina 10mg",
-    "price": 7,
+    "name": "T.F Immune Boost",
+    "price": "31",
     "descripcion": "Antihistamínico utilizado para aliviar los síntomas de la alergia como el estornudo, el picor y el lagrimeo.",
     "Imagen1": "https://cdn.vuetifyjs.com/images/cards/docks.jpg",
     "Imagen2": "https://cdn.vuetifyjs.com/images/cards/docks.jpg",
     "CATEGORIA": null
   },
   {
-    "name": "Paracetamol 500mg",
-    "price": 8,
+    "name": "T.F. Belle Vie",
+    "price": "67",
     "descripcion": "Analgésico y antipirético utilizado para aliviar el dolor y reducir la fiebre.",
     "Imagen1": "https://cdn.vuetifyjs.com/images/cards/docks.jpg",
     "Imagen2": "https://cdn.vuetifyjs.com/images/cards/docks.jpg",
     "CATEGORIA": null
   },
   {
-    "name": "Ibuprofeno 400mg",
-    "price": 8,
+    "name": "T.F. Cardio",
+    "price": "79",
     "descripcion": "Antiinflamatorio no esteroideo utilizado para reducir la inflamación y el dolor.",
     "Imagen1": "https://cdn.vuetifyjs.com/images/cards/docks.jpg",
     "Imagen2": "https://cdn.vuetifyjs.com/images/cards/docks.jpg",
     "CATEGORIA": null
   },
   {
-    "name": "Amoxicilina 500mg",
-    "price": 8,
+    "name": "T.F. Classic",
+    "price": "59",
     "descripcion": "Antibiótico de amplio espectro utilizado para tratar infecciones bacterianas.",
     "Imagen1": "https://cdn.vuetifyjs.com/images/cards/docks.jpg",
     "Imagen2": "https://cdn.vuetifyjs.com/images/cards/docks.jpg",
     "CATEGORIA": null
   },
   {
-    "name": "Aspirina 100mg",
-    "price": 8,
+    "name": "T.F. Colageno ",
+    "price": "53",
     "descripcion": "Analgésico, antiinflamatorio y antipirético utilizado para aliviar el dolor y reducir la fiebre.",
     "Imagen1": "https://cdn.vuetifyjs.com/images/cards/docks.jpg",
     "Imagen2": "https://cdn.vuetifyjs.com/images/cards/docks.jpg",
     "CATEGORIA": null
   },
   {
-    "name": "Loratadina 10mg",
-    "price": 8,
+    "name": "T.F. Glucoach ",
+    "price": "79",
     "descripcion": "Antihistamínico utilizado para aliviar los síntomas de la alergia como el estornudo, el picor y el lagrimeo.",
     "Imagen1": "https://cdn.vuetifyjs.com/images/cards/docks.jpg",
     "Imagen2": "https://cdn.vuetifyjs.com/images/cards/docks.jpg",
     "CATEGORIA": null
   },
   {
-    "name": "PRODUCTO PRUEBA",
-    "price": "45",
+    "name": "T.F. KBU",
+    "price": "67",
     "descripcion": "ESTA ES UNA PRUEB",
     "CATEGORIA": "ANOREXIA",
     "Imagen1": "https://www.helpguide.org/wp-content/uploads/2023/02/Support-Groups-1200x801.jpeg",
