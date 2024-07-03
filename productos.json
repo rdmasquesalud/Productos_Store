@@ -1,7 +1,7 @@
 [
   {
     "name": "RiteStart® Women",
-    "price": 7.0,
+    "price": 7,
     "descripcion": "This all-in-one daily supplement pack contains the building blocks of good nutrition (plus some extras) for everything a man needs to start his day off “Rite.” RiteStart® features patented 4Life® Transfer Factor Plus® Tri-Factor® Formula for broad-based immune cell support; vitamins A, C, and E; Co-Q10;",
     "Imagen1": "https://media2.4life.com/products/New-RiteStart-Men_1000px_20220117145736.jpg?width=1000&mode=crop&quality=80",
     "Imagen2": "https://cdn.vuetifyjs.com/images/cards/docks.jpg",
@@ -9,7 +9,7 @@
   },
   {
     "name": "Ibuprofeno 400mg",
-    "price": 7.0,
+    "price": 7,
     "descripcion": "Antiinflamatorio no esteroideo utilizado para reducir la inflamación y el dolor.",
     "Imagen1": "https://cdn.vuetifyjs.com/images/cards/docks.jpg",
     "Imagen2": "https://cdn.vuetifyjs.com/images/cards/docks.jpg",
@@ -17,7 +17,7 @@
   },
   {
     "name": "Amoxicilina 500mg",
-    "price": 7.0,
+    "price": 7,
     "descripcion": "Antibiótico de amplio espectro utilizado para tratar infecciones bacterianas.",
     "Imagen1": "https://cdn.vuetifyjs.com/images/cards/docks.jpg",
     "Imagen2": "https://cdn.vuetifyjs.com/images/cards/docks.jpg",
@@ -25,7 +25,7 @@
   },
   {
     "name": "Aspirina 100mg",
-    "price": 7.0,
+    "price": 7,
     "descripcion": "Analgésico, antiinflamatorio y antipirético utilizado para aliviar el dolor y reducir la fiebre.",
     "Imagen1": "https://cdn.vuetifyjs.com/images/cards/docks.jpg",
     "Imagen2": "https://cdn.vuetifyjs.com/images/cards/docks.jpg",
@@ -33,7 +33,7 @@
   },
   {
     "name": "Loratadina 10mg",
-    "price": 7.0,
+    "price": 7,
     "descripcion": "Antihistamínico utilizado para aliviar los síntomas de la alergia como el estornudo, el picor y el lagrimeo.",
     "Imagen1": "https://cdn.vuetifyjs.com/images/cards/docks.jpg",
     "Imagen2": "https://cdn.vuetifyjs.com/images/cards/docks.jpg",
@@ -41,7 +41,7 @@
   },
   {
     "name": "Paracetamol 500mg",
-    "price": 8.0,
+    "price": 8,
     "descripcion": "Analgésico y antipirético utilizado para aliviar el dolor y reducir la fiebre.",
     "Imagen1": "https://cdn.vuetifyjs.com/images/cards/docks.jpg",
     "Imagen2": "https://cdn.vuetifyjs.com/images/cards/docks.jpg",
@@ -49,7 +49,7 @@
   },
   {
     "name": "Ibuprofeno 400mg",
-    "price": 8.0,
+    "price": 8,
     "descripcion": "Antiinflamatorio no esteroideo utilizado para reducir la inflamación y el dolor.",
     "Imagen1": "https://cdn.vuetifyjs.com/images/cards/docks.jpg",
     "Imagen2": "https://cdn.vuetifyjs.com/images/cards/docks.jpg",
@@ -57,7 +57,7 @@
   },
   {
     "name": "Amoxicilina 500mg",
-    "price": 8.0,
+    "price": 8,
     "descripcion": "Antibiótico de amplio espectro utilizado para tratar infecciones bacterianas.",
     "Imagen1": "https://cdn.vuetifyjs.com/images/cards/docks.jpg",
     "Imagen2": "https://cdn.vuetifyjs.com/images/cards/docks.jpg",
@@ -65,7 +65,7 @@
   },
   {
     "name": "Aspirina 100mg",
-    "price": 8.0,
+    "price": 8,
     "descripcion": "Analgésico, antiinflamatorio y antipirético utilizado para aliviar el dolor y reducir la fiebre.",
     "Imagen1": "https://cdn.vuetifyjs.com/images/cards/docks.jpg",
     "Imagen2": "https://cdn.vuetifyjs.com/images/cards/docks.jpg",
@@ -73,7 +73,7 @@
   },
   {
     "name": "Loratadina 10mg",
-    "price": 8.0,
+    "price": 8,
     "descripcion": "Antihistamínico utilizado para aliviar los síntomas de la alergia como el estornudo, el picor y el lagrimeo.",
     "Imagen1": "https://cdn.vuetifyjs.com/images/cards/docks.jpg",
     "Imagen2": "https://cdn.vuetifyjs.com/images/cards/docks.jpg",
