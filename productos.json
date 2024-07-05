@@ -1,7 +1,7 @@
 [
   {
     "name": "RiteStartÂ® Women",
-    "price": "88",
+    "price": 88,
     "descripcion": "Cada producto de la línea Targeted Transfer Factor te ofrece respaldo específico para un determinado sistema de tu cuerpo como, por ejemplo, el sistema respiratorio, el sistema cardiovascular, el metabolismo y muchos más. Además, cada producto incluye 4Life Transfer Factor® Tri-Factor® Formula para educar y mejorar tu sistema imunitario.* Toma la siguiente evaluación para encontrar los productos más adecuados para optimizar tu salud.*",
     "Imagen1": "",
     "Imagen2": "",
@@ -9,7 +9,7 @@
   },
   {
     "name": "RiteStartÂ® Man",
-    "price": "88",
+    "price": 88,
     "descripcion": "Antiinflamatorio no estCada producto de la línea Targeted Transfer Factor te ofrece respaldo específico para un determinado sistema de tu cuerpo como, por ejemplo, el sistema respiratorio, el sistema cardiovascular, el metabolismo y muchos más. Además, cada producto incluye 4Life Transfer Factor® Tri-Factor® Formula para educar y mejorar tu sistema imunitario.* Toma la siguiente evaluación para encontrar los productos más adecuados para optimizar tu salud.*eroideo utilizado para reducir la inflamaciÃ³n y el dolor.",
     "Imagen1": "https://usspanish.4life.com/corp/product/ritestart-men-new/1227",
     "Imagen2": "https://cdn.vuetifyjs.com/images/cards/docks.jpg",
@@ -17,7 +17,7 @@
   },
   {
     "name": "Rite Start Kids",
-    "price": "64",
+    "price": 64,
     "descripcion": "Cada producto de la línea Targeted Transfer Factor te ofrece respaldo específico para un determinado sistema de tu cuerpo como, por ejemplo, el sistema respiratorio, el sistema cardiovascular, el metabolismo y muchos más. Además, cada producto incluye 4Life Transfer Factor® Tri-Factor® Formula para educar y mejorar tu sistema imunitario.* Toma la siguiente evaluación para encontrar los productos más adecuados para optimizar tu salud.*",
     "Imagen1": "https://cdn.vuetifyjs.com/images/cards/docks.jpg",
     "Imagen2": "https://cdn.vuetifyjs.com/images/cards/docks.jpg",
@@ -25,7 +25,7 @@
   },
   {
     "name": "Stress Formula",
-    "price": "34",
+    "price": 34,
     "descripcion": "Cada producto de la línea Targeted Transfer Factor te ofrece respaldo específico para un determinado sistema de tu cuerpo como, por ejemplo, el sistema respiratorio, el sistema cardiovascular, el metabolismo y muchos más. Además, cada producto incluye 4Life Transfer Factor® Tri-Factor® Formula para educar y mejorar tu sistema imunitario.* Toma la siguiente evaluación para encontrar los productos más adecuados para optimizar tu salud.*",
     "Imagen1": "https://cdn.vuetifyjs.com/images/cards/docks.jpg",
     "Imagen2": "https://cdn.vuetifyjs.com/images/cards/docks.jpg",
@@ -33,7 +33,7 @@
   },
   {
     "name": "T.F Immune Boost",
-    "price": "31",
+    "price": 31,
     "descripcion": "Cada producto de la línea Targeted Transfer Factor te ofrece respaldo específico para un determinado sistema de tu cuerpo como, por ejemplo, el sistema respiratorio, el sistema cardiovascular, el metabolismo y muchos más. Además, cada producto incluye 4Life Transfer Factor® Tri-Factor® Formula para educar y mejorar tu sistema imunitario.* Toma la siguiente evaluación para encontrar los productos más adecuados para optimizar tu salud.*",
     "Imagen1": "https://cdn.vuetifyjs.com/images/cards/docks.jpg",
     "Imagen2": "https://cdn.vuetifyjs.com/images/cards/docks.jpg",
@@ -41,7 +41,7 @@
   },
   {
     "name": "T.F. Belle Vie",
-    "price": "67",
+    "price": 67,
     "descripcion": "Cada producto de la línea Targeted Transfer Factor te ofrece respaldo específico para un determinado sistema de tu cuerpo como, por ejemplo, el sistema respiratorio, el sistema cardiovascular, el metabolismo y muchos más. Además, cada producto incluye 4Life Transfer Factor® Tri-Factor® Formula para educar y mejorar tu sistema imunitario.* Toma la siguiente evaluación para encontrar los productos más adecuados para optimizar tu salud.*",
     "Imagen1": "https://cdn.vuetifyjs.com/images/cards/docks.jpg",
     "Imagen2": "https://cdn.vuetifyjs.com/images/cards/docks.jpg",
@@ -49,7 +49,7 @@
   },
   {
     "name": "T.F. Cardio",
-    "price": "79",
+    "price": 79,
     "descripcion": "Cada producto de la línea Targeted Transfer Factor te ofrece respaldo específico para un determinado sistema de tu cuerpo como, por ejemplo, el sistema respiratorio, el sistema cardiovascular, el metabolismo y muchos más. Además, cada producto incluye 4Life Transfer Factor® Tri-Factor® Formula para educar y mejorar tu sistema imunitario.* Toma la siguiente evaluación para encontrar los productos más adecuados para optimizar tu salud.*",
     "Imagen1": "https://cdn.vuetifyjs.com/images/cards/docks.jpg",
     "Imagen2": "https://cdn.vuetifyjs.com/images/cards/docks.jpg",
@@ -57,7 +57,7 @@
   },
   {
     "name": "T.F. Classic",
-    "price": "59",
+    "price": 59,
     "descripcion": "Cada producto de la línea Targeted Transfer Factor te ofrece respaldo específico para un determinado sistema de tu cuerpo como, por ejemplo, el sistema respiratorio, el sistema cardiovascular, el metabolismo y muchos más. Además, cada producto incluye 4Life Transfer Factor® Tri-Factor® Formula para educar y mejorar tu sistema imunitario.* Toma la siguiente evaluación para encontrar los productos más adecuados para optimizar tu salud.*",
     "Imagen1": "https://cdn.vuetifyjs.com/images/cards/docks.jpg",
     "Imagen2": "https://cdn.vuetifyjs.com/images/cards/docks.jpg",
@@ -65,7 +65,7 @@
   },
   {
     "name": "T.F. Colageno ",
-    "price": "53",
+    "price": 53,
     "descripcion": "Cada producto de la línea Targeted Transfer Factor te ofrece respaldo específico para un determinado sistema de tu cuerpo como, por ejemplo, el sistema respiratorio, el sistema cardiovascular, el metabolismo y muchos más. Además, cada producto incluye 4Life Transfer Factor® Tri-Factor® Formula para educar y mejorar tu sistema imunitario.* Toma la siguiente evaluación para encontrar los productos más adecuados para optimizar tu salud.*",
     "Imagen1": "https://cdn.vuetifyjs.com/images/cards/docks.jpg",
     "Imagen2": "https://cdn.vuetifyjs.com/images/cards/docks.jpg",
@@ -73,7 +73,7 @@
   },
   {
     "name": "T.F. Glucoach ",
-    "price": "79",
+    "price": 79,
     "descripcion": "Cada producto de la línea Targeted Transfer Factor te ofrece respaldo específico para un determinado sistema de tu cuerpo como, por ejemplo, el sistema respiratorio, el sistema cardiovascular, el metabolismo y muchos más. Además, cada producto incluye 4Life Transfer Factor® Tri-Factor® Formula para educar y mejorar tu sistema imunitario.* Toma la siguiente evaluación para encontrar los productos más adecuados para optimizar tu salud.*",
     "Imagen1": "https://cdn.vuetifyjs.com/images/cards/docks.jpg",
     "Imagen2": "https://cdn.vuetifyjs.com/images/cards/docks.jpg",
@@ -81,7 +81,7 @@
   },
   {
     "name": "T.F. KBU",
-    "price": "67",
+    "price": 67,
     "descripcion": "Cada producto de la línea Targeted Transfer Factor te ofrece respaldo específico para un determinado sistema de tu cuerpo como, por ejemplo, el sistema respiratorio, el sistema cardiovascular, el metabolismo y muchos más. Además, cada producto incluye 4Life Transfer Factor® Tri-Factor® Formula para educar y mejorar tu sistema imunitario.* Toma la siguiente evaluación para encontrar los productos más adecuados para optimizar tu salud.*",
     "CATEGORIA": "Línea Targeted Transfer Factor®",
     "Imagen1": "https://www.helpguide.org/wp-content/uploads/2023/02/Support-Groups-1200x801.jpeg",
@@ -89,7 +89,7 @@
   },
   {
     "name": "T.F. Lung",
-    "price": "58",
+    "price": 58,
     "descripcion": "Cada producto de la línea Targeted Transfer Factor te ofrece respaldo específico para un determinado sistema de tu cuerpo como, por ejemplo, el sistema respiratorio, el sistema cardiovascular, el metabolismo y muchos más. Además, cada producto incluye 4Life Transfer Factor® Tri-Factor® Formula para educar y mejorar tu sistema imunitario.* Toma la siguiente evaluación para encontrar los productos más adecuados para optimizar tu salud.*",
     "CATEGORIA": "Línea Targeted Transfer Factor®",
     "Imagen1": "",
@@ -97,7 +97,7 @@
   },
   {
     "name": "T.F. Malepro",
-    "price": "77",
+    "price": 77,
     "descripcion": "Cada producto de la línea Targeted Transfer Factor te ofrece respaldo específico para un determinado sistema de tu cuerpo como, por ejemplo, el sistema respiratorio, el sistema cardiovascular, el metabolismo y muchos más. Además, cada producto incluye 4Life Transfer Factor® Tri-Factor® Formula para educar y mejorar tu sistema imunitario.* Toma la siguiente evaluación para encontrar los productos más adecuados para optimizar tu salud.*",
     "CATEGORIA": "Línea Targeted Transfer Factor®",
     "Imagen1": "",
@@ -105,7 +105,7 @@
   },
   {
     "name": "T.F. Metabolite",
-    "price": "49",
+    "price": 49,
     "descripcion": "Cada producto de la línea Targeted Transfer Factor te ofrece respaldo específico para un determinado sistema de tu cuerpo como, por ejemplo, el sistema respiratorio, el sistema cardiovascular, el metabolismo y muchos más. Además, cada producto incluye 4Life Transfer Factor® Tri-Factor® Formula para educar y mejorar tu sistema imunitario.* Toma la siguiente evaluación para encontrar los productos más adecuados para optimizar tu salud.*",
     "CATEGORIA": "Línea Targeted Transfer Factor®",
     "Imagen1": "",
@@ -113,7 +113,7 @@
   },
   {
     "name": "T.F. PLUS ",
-    "price": "80",
+    "price": 80,
     "descripcion": "Cada producto de la línea Targeted Transfer Factor te ofrece respaldo específico para un determinado sistema de tu cuerpo como, por ejemplo, el sistema respiratorio, el sistema cardiovascular, el metabolismo y muchos más. Además, cada producto incluye 4Life Transfer Factor® Tri-Factor® Formula para educar y mejorar tu sistema imunitario.* Toma la siguiente evaluación para encontrar los productos más adecuados para optimizar tu salud.*",
     "CATEGORIA": "Línea Targeted Transfer Factor®",
     "Imagen1": "",
@@ -121,7 +121,7 @@
   },
   {
     "name": "T.F. Recall",
-    "price": "70",
+    "price": 70,
     "descripcion": "Cada producto de la línea Targeted Transfer Factor te ofrece respaldo específico para un determinado sistema de tu cuerpo como, por ejemplo, el sistema respiratorio, el sistema cardiovascular, el metabolismo y muchos más. Además, cada producto incluye 4Life Transfer Factor® Tri-Factor® Formula para educar y mejorar tu sistema imunitario.* Toma la siguiente evaluación para encontrar los productos más adecuados para optimizar tu salud.*",
     "CATEGORIA": "Línea Targeted Transfer Factor®",
     "Imagen1": "",
@@ -129,7 +129,7 @@
   },
   {
     "name": "T.F. Reflexion ",
-    "price": "66",
+    "price": 66,
     "descripcion": "Cada producto de la línea Targeted Transfer Factor te ofrece respaldo específico para un determinado sistema de tu cuerpo como, por ejemplo, el sistema respiratorio, el sistema cardiovascular, el metabolismo y muchos más. Además, cada producto incluye 4Life Transfer Factor® Tri-Factor® Formula para educar y mejorar tu sistema imunitario.* Toma la siguiente evaluación para encontrar los productos más adecuados para optimizar tu salud.*",
     "CATEGORIA": "Línea Targeted Transfer Factor®",
     "Imagen1": "",
@@ -137,7 +137,7 @@
   },
   {
     "name": "T.F. Tri-Factor (Regular) ",
-    "price": "63",
+    "price": 63,
     "descripcion": "Cada producto de la línea Targeted Transfer Factor te ofrece respaldo específico para un determinado sistema de tu cuerpo como, por ejemplo, el sistema respiratorio, el sistema cardiovascular, el metabolismo y muchos más. Además, cada producto incluye 4Life Transfer Factor® Tri-Factor® Formula para educar y mejorar tu sistema imunitario.* Toma la siguiente evaluación para encontrar los productos más adecuados para optimizar tu salud.*",
     "CATEGORIA": "Línea Targeted Transfer Factor®",
     "Imagen1": "",
@@ -145,7 +145,7 @@
   },
   {
     "name": "T.F. Regular Masticable",
-    "price": "64",
+    "price": 64,
     "descripcion": "Cada producto de la línea Targeted Transfer Factor te ofrece respaldo específico para un determinado sistema de tu cuerpo como, por ejemplo, el sistema respiratorio, el sistema cardiovascular, el metabolismo y muchos más. Además, cada producto incluye 4Life Transfer Factor® Tri-Factor® Formula para educar y mejorar tu sistema imunitario.* Toma la siguiente evaluación para encontrar los productos más adecuados para optimizar tu salud.*",
     "CATEGORIA": "Línea Targeted Transfer Factor®",
     "Imagen1": "",
@@ -153,7 +153,7 @@
   },
   {
     "name": "T.F. Renewall",
-    "price": "40",
+    "price": 40,
     "descripcion": "Cada producto de la línea Targeted Transfer Factor te ofrece respaldo específico para un determinado sistema de tu cuerpo como, por ejemplo, el sistema respiratorio, el sistema cardiovascular, el metabolismo y muchos más. Además, cada producto incluye 4Life Transfer Factor® Tri-Factor® Formula para educar y mejorar tu sistema imunitario.* Toma la siguiente evaluación para encontrar los productos más adecuados para optimizar tu salud.*",
     "CATEGORIA": "Línea Targeted Transfer Factor®",
     "Imagen1": "",
@@ -161,7 +161,7 @@
   },
   {
     "name": "T.F. Renuvo",
-    "price": "70",
+    "price": 70,
     "descripcion": "Cada producto de la línea Targeted Transfer Factor te ofrece respaldo específico para un determinado sistema de tu cuerpo como, por ejemplo, el sistema respiratorio, el sistema cardiovascular, el metabolismo y muchos más. Además, cada producto incluye 4Life Transfer Factor® Tri-Factor® Formula para educar y mejorar tu sistema imunitario.* Toma la siguiente evaluación para encontrar los productos más adecuados para optimizar tu salud.*",
     "CATEGORIA": "Línea Targeted Transfer Factor®",
     "Imagen1": "",
@@ -169,7 +169,7 @@
   },
   {
     "name": "T.F. RioVida (1 botella)",
-    "price": "62",
+    "price": 62,
     "descripcion": "Cada producto de la línea Targeted Transfer Factor te ofrece respaldo específico para un determinado sistema de tu cuerpo como, por ejemplo, el sistema respiratorio, el sistema cardiovascular, el metabolismo y muchos más. Además, cada producto incluye 4Life Transfer Factor® Tri-Factor® Formula para educar y mejorar tu sistema imunitario.* Toma la siguiente evaluación para encontrar los productos más adecuados para optimizar tu salud.*",
     "CATEGORIA": "Línea Targeted Transfer Factor®",
     "Imagen1": "",
@@ -177,7 +177,7 @@
   },
   {
     "name": "T.F. RioVida (2 botellas)",
-    "price": "112",
+    "price": 112,
     "descripcion": "Cada producto de la línea Targeted Transfer Factor te ofrece respaldo específico para un determinado sistema de tu cuerpo como, por ejemplo, el sistema respiratorio, el sistema cardiovascular, el metabolismo y muchos más. Además, cada producto incluye 4Life Transfer Factor® Tri-Factor® Formula para educar y mejorar tu sistema imunitario.* Toma la siguiente evaluación para encontrar los productos más adecuados para optimizar tu salud.*",
     "CATEGORIA": "Línea Targeted Transfer Factor®",
     "Imagen1": "",
@@ -185,7 +185,7 @@
   },
   {
     "name": "T.F. RioVida Burst ",
-    "price": "61",
+    "price": 61,
     "descripcion": "Cada producto de la línea Targeted Transfer Factor te ofrece respaldo específico para un determinado sistema de tu cuerpo como, por ejemplo, el sistema respiratorio, el sistema cardiovascular, el metabolismo y muchos más. Además, cada producto incluye 4Life Transfer Factor® Tri-Factor® Formula para educar y mejorar tu sistema imunitario.* Toma la siguiente evaluación para encontrar los productos más adecuados para optimizar tu salud.*",
     "CATEGORIA": "Línea Targeted Transfer Factor®",
     "Imagen1": "",
@@ -193,7 +193,7 @@
   },
   {
     "name": "T.F. Riovida Chews",
-    "price": "38",
+    "price": 38,
     "descripcion": "Cada producto de la línea Targeted Transfer Factor te ofrece respaldo específico para un determinado sistema de tu cuerpo como, por ejemplo, el sistema respiratorio, el sistema cardiovascular, el metabolismo y muchos más. Además, cada producto incluye 4Life Transfer Factor® Tri-Factor® Formula para educar y mejorar tu sistema imunitario.* Toma la siguiente evaluación para encontrar los productos más adecuados para optimizar tu salud.*",
     "CATEGORIA": "Línea Targeted Transfer Factor®",
     "Imagen1": "",
@@ -201,7 +201,7 @@
   },
   {
     "name": "T.F. RioVida Stix",
-    "price": "47",
+    "price": 47,
     "descripcion": "Cada producto de la línea Targeted Transfer Factor te ofrece respaldo específico para un determinado sistema de tu cuerpo como, por ejemplo, el sistema respiratorio, el sistema cardiovascular, el metabolismo y muchos más. Además, cada producto incluye 4Life Transfer Factor® Tri-Factor® Formula para educar y mejorar tu sistema imunitario.* Toma la siguiente evaluación para encontrar los productos más adecuados para optimizar tu salud.*",
     "CATEGORIA": "Línea Targeted Transfer Factor®",
     "Imagen1": "",
@@ -209,7 +209,7 @@
   },
   {
     "name": "T.F. SleepRite",
-    "price": "47",
+    "price": 47,
     "descripcion": "Cada producto de la línea Targeted Transfer Factor te ofrece respaldo específico para un determinado sistema de tu cuerpo como, por ejemplo, el sistema respiratorio, el sistema cardiovascular, el metabolismo y muchos más. Además, cada producto incluye 4Life Transfer Factor® Tri-Factor® Formula para educar y mejorar tu sistema imunitario.* Toma la siguiente evaluación para encontrar los productos más adecuados para optimizar tu salud.*",
     "CATEGORIA": "Línea Targeted Transfer Factor®",
     "Imagen1": "",
@@ -217,7 +217,7 @@
   },
   {
     "name": "T.F. Spray (Menta/Naranja)",
-    "price": "47",
+    "price": 47,
     "descripcion": "Cada producto de la línea Targeted Transfer Factor te ofrece respaldo específico para un determinado sistema de tu cuerpo como, por ejemplo, el sistema respiratorio, el sistema cardiovascular, el metabolismo y muchos más. Además, cada producto incluye 4Life Transfer Factor® Tri-Factor® Formula para educar y mejorar tu sistema imunitario.* Toma la siguiente evaluación para encontrar los productos más adecuados para optimizar tu salud.*",
     "CATEGORIA": "Línea Targeted Transfer Factor®",
     "Imagen1": "",
@@ -225,7 +225,7 @@
   },
   {
     "name": "T.F. Vista",
-    "price": "67",
+    "price": 67,
     "descripcion": "Cada producto de la línea Targeted Transfer Factor te ofrece respaldo específico para un determinado sistema de tu cuerpo como, por ejemplo, el sistema respiratorio, el sistema cardiovascular, el metabolismo y muchos más. Además, cada producto incluye 4Life Transfer Factor® Tri-Factor® Formula para educar y mejorar tu sistema imunitario.* Toma la siguiente evaluación para encontrar los productos más adecuados para optimizar tu salud.*",
     "CATEGORIA": "Línea Targeted Transfer Factor®",
     "Imagen1": "",
@@ -233,7 +233,7 @@
   },
   {
     "name": "Transform Man ",
-    "price": "55",
+    "price": 55,
     "descripcion": "Cada producto de la línea Targeted Transfer Factor te ofrece respaldo específico para un determinado sistema de tu cuerpo como, por ejemplo, el sistema respiratorio, el sistema cardiovascular, el metabolismo y muchos más. Además, cada producto incluye 4Life Transfer Factor® Tri-Factor® Formula para educar y mejorar tu sistema imunitario.* Toma la siguiente evaluación para encontrar los productos más adecuados para optimizar tu salud.*",
     "CATEGORIA": "Transform",
     "Imagen1": "",
@@ -241,7 +241,7 @@
   },
   {
     "name": "Transform Wonman ",
-    "price": "55",
+    "price": 55,
     "descripcion": "Cada producto de la línea Targeted Transfer Factor te ofrece respaldo específico para un determinado sistema de tu cuerpo como, por ejemplo, el sistema respiratorio, el sistema cardiovascular, el metabolismo y muchos más. Además, cada producto incluye 4Life Transfer Factor® Tri-Factor® Formula para educar y mejorar tu sistema imunitario.* Toma la siguiente evaluación para encontrar los productos más adecuados para optimizar tu salud.*",
     "CATEGORIA": "Transform",
     "Imagen1": "",
@@ -249,7 +249,7 @@
   },
   {
     "name": "Transform Burn ",
-    "price": "43",
+    "price": 43,
     "descripcion": "Cada producto de la línea Targeted Transfer Factor te ofrece respaldo específico para un determinado sistema de tu cuerpo como, por ejemplo, el sistema respiratorio, el sistema cardiovascular, el metabolismo y muchos más. Además, cada producto incluye 4Life Transfer Factor® Tri-Factor® Formula para educar y mejorar tu sistema imunitario.* Toma la siguiente evaluación para encontrar los productos más adecuados para optimizar tu salud.*",
     "CATEGORIA": "Transform",
     "Imagen1": "",
@@ -257,7 +257,7 @@
   },
   {
     "name": "Transform ShapeRite",
-    "price": "43",
+    "price": 43,
     "descripcion": "Cada producto de la línea Targeted Transfer Factor te ofrece respaldo específico para un determinado sistema de tu cuerpo como, por ejemplo, el sistema respiratorio, el sistema cardiovascular, el metabolismo y muchos más. Además, cada producto incluye 4Life Transfer Factor® Tri-Factor® Formula para educar y mejorar tu sistema imunitario.* Toma la siguiente evaluación para encontrar los productos más adecuados para optimizar tu salud.*",
     "CATEGORIA": "Transform",
     "Imagen1": "",
@@ -265,7 +265,7 @@
   },
   {
     "name": "Transform PreZoom",
-    "price": "67",
+    "price": 67,
     "descripcion": "Cada producto de la línea Targeted Transfer Factor te ofrece respaldo específico para un determinado sistema de tu cuerpo como, por ejemplo, el sistema respiratorio, el sistema cardiovascular, el metabolismo y muchos más. Además, cada producto incluye 4Life Transfer Factor® Tri-Factor® Formula para educar y mejorar tu sistema imunitario.* Toma la siguiente evaluación para encontrar los productos más adecuados para optimizar tu salud.*",
     "CATEGORIA": "Transform",
     "Imagen1": "",
